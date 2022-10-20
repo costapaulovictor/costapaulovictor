@@ -1,13 +1,13 @@
 ### 👋Olá!
 Eu sou o Paulo Victor estudante de programação e tecnologias em geral!
 
-![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=costapaulovictor&show_icons=true&theme=radical)
+![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=costapaulovictor&show_icons=true&theme=tokyonight)
 
 ## Linguagens que tenho conhecimento
 
 <div>
   <a href="https://github.com/costapaulovictor">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costapaulovictor&layout=compact&langs_count=7&theme=radical"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costapaulovictor&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 ![Skills](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
