@@ -1,8 +1,8 @@
-### 👋Olá! eu sou o Paulo Victor estudante de programação e tecnologias em geral!
+## 👋Olá! eu sou o Paulo Victor estudante de programação e tecnologias em geral!
 
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=costapaulovictor&show_icons=true&theme=radical)
 
-## Tecnologia que o uso no dia a dia
+### Tecnologiaa que o uso no dia a dia
 ![IDE](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![IDE](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 ![IDE](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
