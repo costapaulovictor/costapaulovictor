@@ -15,7 +15,7 @@
 
 
 ## Tecnologias que o uso no dia a dia
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costapaulovictorr&langs_count=8)](https://github.com/costapaulovictor/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costapaulovictorr&langs_count=8)](https://github.com/costapaulovictor)
 
 ![IDE](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 ![IDE](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
