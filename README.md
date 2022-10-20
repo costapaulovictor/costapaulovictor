@@ -18,11 +18,9 @@
 
 <div align="center">
   <a href="https://github.com/costapaulovictor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costapaulovictor&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costapaulovictor&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costapaulovictor&langs_count=8)](https://github.com/costapaulovictor/github-readme-stats)
-
 ![IDE](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 ![IDE](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![IDE](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
