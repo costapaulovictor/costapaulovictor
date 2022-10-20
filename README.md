@@ -2,7 +2,7 @@
 
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=costapaulovictor&show_icons=true&theme=radical)
 
-[![IDE](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]
+![IDE](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
