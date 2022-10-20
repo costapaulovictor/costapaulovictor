@@ -28,4 +28,4 @@
 </div>
   
   ## 
-  - Cursando engenharia de software em: [UCB](https://ucb.catolica.edu.br/portal/)<br/>
+  - Cursando engenharia de software em: [Universidade Católica de Brasília - UCB](https://ucb.catolica.edu.br/portal/)<br/>
